@@ -1,0 +1,4 @@
+name: MCChess
+main: net.ddns.Maikeio.MCChess.MCChess
+version: 0.1
+api-version: 1.18

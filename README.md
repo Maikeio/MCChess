@@ -1,2 +1,2 @@
 # MCChess
-A Minecraft Plugin adding chess to minecraft
+A Minecraft Spigot Plugin adding chess to minecraft
